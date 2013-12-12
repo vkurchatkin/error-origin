@@ -1,7 +1,7 @@
 {
   "name": "error-origin",
   "version": "0.0.1",
-  "description": "",
+  "description": "Get origin of an error",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
