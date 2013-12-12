@@ -1,0 +1,1 @@
+[![browser support](https://ci.testling.com/vkurchatkin/error-origin.png)](https://ci.testling.com/vkurchatkin/error-origin)
