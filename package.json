@@ -1,0 +1,23 @@
+{
+  "name": "error-origin",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vkurchatkin/error-origin"
+  },
+  "author": "Vladimir Kurchatkin <vladimir.kurchatkin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vkurchatkin/error-origin/issues"
+  },
+  "homepage": "https://github.com/vkurchatkin/error-origin",
+  "devDependencies": {
+    "should": "~2.1.1",
+    "mocha": "~1.15.1"
+  }
+}
